@@ -22,7 +22,9 @@ Step-by-Step Instructions
 
 
 
-Tables to Be Created Here are the key tables that you'll design and implement for the bookstore database: 
+Tables Created 
+-----------------------
+Here are the key tables that are designed and implemented for the bookstore database: 
 
 1. book: A list of all books available in the store. 
 
